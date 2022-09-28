@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="genres">Genres</string>
+    <string name="countries">Countries</string>
+    <string name="spoken_languages">Languages</string>
+    <string name="release_date">Release Date</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="overview">Overview</string>
+</resources>
